@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-  <link rel="stylesheet" href="test.css">
+  <link rel="stylesheet" href="https://sanachi1027.github.io/-/">
   <title>自己紹介</title>  
 </head>
 <body>
