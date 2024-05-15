@@ -12,8 +12,7 @@
     <li>好きな色　<span style="color: darkseagreen;">緑</span>、 <span style="color: azure;">白</span></style></span></li></h3>
   </ul>
   <h4>趣味：音楽はk-popをよく聞きます、一番好きなアイドルはIZ*ONEです😊
-    <img src="C:\Users\sanay\Downloads\izone-image.jpg" alt="izone-im"/>
-  </h4>
+    <img src="C:\Users\sanay\Downloads\izone-image.jpg" alt="izone-im"/>  </h4>
   <p></p>
 </body>
 </html>
